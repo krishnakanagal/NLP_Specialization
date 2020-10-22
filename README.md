@@ -1,2 +1,2 @@
 # NLP_Specialization
-This is a repository of all Coursera Assignment in NLP Specialization
+This is a repository of Assignments and Notes of Concepts in NLP Specialization
